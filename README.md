@@ -1,4 +1,5 @@
 <h1>- 👋 Hi, I’m @Luisaarf</h1>
-- 👀 I’m interested in games, movies, digital art and technology
-- 🌱 I’m currently learning about game production and trying to get to know more about coding to become a front-end developer
-- 📫 How to reach me: You can send me an email at lulufoppa@gmail.com
+<h2> - 🌱 Currently I’m interested in learning more about HTML, CSS and JavaScript </h2>
+<h3> - 🎓 I wish to get a Bachelor's Degree in Game Design and Digital Entertainment at Univali(Itajaí Valley University)
+<h4> - 👀 My hobbies include: games, movies, dancing and digital art</h4>
+<h5>- 📫 How to reach me: You can send me an email at lulufoppa@gmail.com</h5>

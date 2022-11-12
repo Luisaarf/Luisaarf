@@ -5,7 +5,7 @@
  <ul>
   <li> playing my ps4 or mobile gamer </li>
   <li> watching movies and series </li>
-  <li> dancing bellydance </li>
+  <li> bellydance </li>
   <li> making digital art </li>
  </ul> 
  </h4>

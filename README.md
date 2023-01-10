@@ -10,7 +10,7 @@
   <li> making digital art </li>
  </ul> 
  </h4>
-<h4>📫 How to reach me: You can send me an email at lulufoppa@gmail.com</h5>
+<h4>📫 You can reach me at lulufoppa@gmail.com</h5>
 
  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luísa-rodrigues-foppa-513b9b182" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lu%C3%ADsa-rodrigues-foppa-513b9b182?trk=profile-badge">Luísa Rodrigues Foppa</a></div>
               

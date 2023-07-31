@@ -1,8 +1,8 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> Hi, I’m Luísa and welcome to my github's profile</h1>
-<h2>🌱 I'm still exploring different programming areas and currently I’m interested in learning more about React and TypeScript </h2>
+<h2>🌱 I'm still exploring different programming areas </h2>
 <h3>🎓 I'm studying hard to get a Bachelor's Degree in Game Design and Digital Entertainment at Univali(Itajaí Valley University)
-<br><br>👩🏻‍💻<em>TypeScript, React, GraphQL, C#, Python</em>
-<h4>👀 My hobbies include: <span>playing my ps4 or mobile games, watching movies and series, bellydance and making digital art</span> </h4>
+<br><br>👩🏻‍💻<em> My programming experiences involves: TypeScript, React, GraphQL, C#, Python</em>
+<h4>👀 My hobbies include: <span>playing my ps4 or mobile games, watching movies and series, bellydance and digital art</span> </h4>
 <h4>📫 You can reach me at lulufoppa@gmail.com</h5>
 <!--  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luísa-rodrigues-foppa-513b9b182" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lu%C3%ADsa-rodrigues-foppa-513b9b182?trk=profile-badge">Luísa Rodrigues Foppa</a></div> -->
              

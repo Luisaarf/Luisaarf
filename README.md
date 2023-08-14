@@ -1,6 +1,6 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> Hi, I’m Luísa and welcome to my github's profile</h1>
 <h2>🌱 I'm still exploring different programming areas </h2>
-<h3>🎓 I'm studying hard to get a Bachelor's Degree in Game Design and Digital Entertainment at Univali(Itajaí Valley University)
+<h3>🎓 I'm studying to get a Bachelor's Degree in Game Design and Digital Entertainment at Univali(Itajaí Valley University)
 <br><br>👩🏻‍💻<em> My programming experiences involves: TypeScript, React, GraphQL, C#, Python</em>
 <h4>👀 My hobbies include: <span>playing my ps4 or mobile games, watching movies and series, bellydance and digital art</span> </h4>
 <h4>📫 You can reach me at lulufoppa@gmail.com</h5>

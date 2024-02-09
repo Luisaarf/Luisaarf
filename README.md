@@ -18,4 +18,4 @@
 <h4>📫 You can reach me at lulufoppa@gmail.com</h5>
 <!--  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luísa-rodrigues-foppa-513b9b182" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lu%C3%ADsa-rodrigues-foppa-513b9b182?trk=profile-badge">Luísa Rodrigues Foppa</a></div> -->
              
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisaarf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisaarf&layout=compact&hide=ShaderLab,Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)

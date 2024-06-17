@@ -12,6 +12,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 </div>
+	  <div align="center">
+	<code><img width="100" src="https://media.badgr.com/uploads/badges/assertion-q749_D6kT2eYv0gyHn7P1g.png?versionId=9RiptZND88Xi3n4nXXOiia1YosJsDjFg" alt="RAG Developer workshop participation" title="RAG Developer workshop participation"/></code>
+		  </div>
   </br>
 
 <h4>📫 You can reach me at lulufoppa@gmail.com</h5>

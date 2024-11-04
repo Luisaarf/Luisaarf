@@ -10,11 +10,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/80f6771d-4adc-48bc-b05d-d0455bdf2994" alt="Godot" title="Godot"/></code>
+	  <code><img width="50" src="https://media.badgr.com/uploads/badges/assertion-q749_D6kT2eYv0gyHn7P1g.png?versionId=9RiptZND88Xi3n4nXXOiia1YosJsDjFg" alt="RAG Developer workshop participation" title="RAG Developer workshop participation"/></code>
 </div>
-	  <div align="center">
-	<code><img width="100" src="https://media.badgr.com/uploads/badges/assertion-q749_D6kT2eYv0gyHn7P1g.png?versionId=9RiptZND88Xi3n4nXXOiia1YosJsDjFg" alt="RAG Developer workshop participation" title="RAG Developer workshop participation"/></code>
-		  </div>
   </br>
 
 <h4>📫 You can reach me at lulufoppa@gmail.com</h5>

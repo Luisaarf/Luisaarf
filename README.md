@@ -1,5 +1,5 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> Hi, I’m Luísa and welcome to my github's profile</h1>
-<h3>🎓 Last year to get a Bachelor's Degree in Game Design and Digital Entertainment at Univali(Itajaí Valley University)
+<h3>🎓 Bachelor's Degree in Game Design at Univali(Itajaí Valley University)
 <br></br>
   <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
